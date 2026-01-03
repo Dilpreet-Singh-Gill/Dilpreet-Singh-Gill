@@ -55,23 +55,16 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dilpreet-Singh-Gill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dilpreet-Singh-Gill&theme=tokyonight&hide_border=true"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilpreet-Singh-Gill&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
 
 <h3>📄 Resume</h3>
 
 <ul>
   <li>
-    📄 <a href="https://github.com/Dilpreet-Singh-Gill/Dilpreet-Singh-Gill/raw/main/Resume_ATS.pdf">
+    <a href="https://github.com/Dilpreet-Singh-Gill/Dilpreet-Singh-Gill/raw/main/Resume_ATS.pdf">
   📄 Download Resume
 </a>
 
@@ -80,7 +73,8 @@
 <h3>🤝 Connect With Me</h3>
 
 <p>
-  🌐 <a href="https://github.com/Dilpreet-Singh-Gill">GitHub</a> <br/>
-  💼 <a href="https://www.linkedin.com/in/dilpreet2005/">LinkedIn</a> <br/>
-  📧 <a href="mailto:gill.dilpreet2005@gmail.com">Email</a>
+  🔗 <a href="https://github.com/Dilpreet-Singh-Gill" style="text-decoration: none;">GitHub</a> |
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" style="text-decoration: none;">LinkedIn</a> |
+  <a href="mailto:dilpreetsinghgill@email.com" style="text-decoration: none;">Email</a>
 </p>
+
