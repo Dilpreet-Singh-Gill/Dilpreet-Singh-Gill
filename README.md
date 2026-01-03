@@ -67,6 +67,6 @@
 <p>
   🔗 <a href="https://github.com/Dilpreet-Singh-Gill" style="text-decoration: none;">GitHub</a> |
   <a href="https://www.linkedin.com/in/dilpreet2005/" style="text-decoration: none;">LinkedIn</a> |
-  <a href="mailto:gill.dilpreet2005@gmail.com" style="text-decoration: none;">Email</a>
+  <a href="mailto:gill.dilpreet2005@gmail.com" style="text-decoration: none;">gill.dilpreet2005@gmail.com</a>
 </p>
 
