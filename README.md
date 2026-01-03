@@ -6,7 +6,7 @@
 <!-- Greeting and Intro -->
 <h1 align="left">Hiiii !!👋 </h1>
 <p align="left" style="font-size: 1.2rem;">
-  I'm <strong>Sahitya Singh</strong>, passionate about designing and building problem-solving solutions.
+  I'm <strong>Dilpreet Singh Gill</strong>, passionate about designing and building problem-solving solutions.
 </p>
 
 <!-- Coding GIF -->
@@ -15,9 +15,9 @@
 <!-- About Me -->
 <h3>💡 About Me</h3>
 <ul>
-  <li>💻 Passionate about design and detail-oriented development</li>
-  <li>🔭 Currently building the <strong>StartwithSmall</strong> community</li>
-  <li>🌱 Always learning and exploring new technologies</li>
+ <li>💻 Full-stack developer focused on clean UI and scalable backend systems</li>
+<li>🚀 Actively building real-world projects and contributing.</li>
+<li>🌱 Continuously learning modern web technologies and system design</li>
 </ul>
 
 <hr>
