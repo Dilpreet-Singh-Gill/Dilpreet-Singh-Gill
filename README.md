@@ -51,7 +51,28 @@
 </div>
 
 <hr>
-
-<!-- GitHub Stats -->
 <h3>📊 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=startwithsahitya&layout=compact" alt="Top Languages">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Dilpreet-Singh-Gill&show_icons=true&theme=tokyonight&hide_border=true" 
+  height="170"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilpreet-Singh-Gill&layout=compact&theme=tokyonight&hide_border=true" 
+  height="170"
+/>
+<h3>📄 Resume</h3>
+
+<ul>
+  <li>
+    📄 <a href="https://github.com/Dilpreet-Singh-Gill">View My Resume</a>
+  </li>
+</ul>
+<h3>🤝 Connect With Me</h3>
+
+<p>
+  🌐 <a href="https://github.com/Dilpreet-Singh-Gill">GitHub</a> <br/>
+  💼 <a href="https://www.linkedin.com/">LinkedIn</a> <br/>
+  📧 <a href="mailto:dilpreetsinghgill@email.com">Email</a>
+</p>
