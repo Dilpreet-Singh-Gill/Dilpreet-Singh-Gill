@@ -51,14 +51,6 @@
 </div>
 
 <hr>
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Dilpreet-Singh-Gill&theme=tokyonight&hide_border=true"
-  />
-</p>
-
 
 <h3>📄 Resume</h3>
 
@@ -74,7 +66,7 @@
 
 <p>
   🔗 <a href="https://github.com/Dilpreet-Singh-Gill" style="text-decoration: none;">GitHub</a> |
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" style="text-decoration: none;">LinkedIn</a> |
-  <a href="mailto:dilpreetsinghgill@email.com" style="text-decoration: none;">Email</a>
+  <a href="https://www.linkedin.com/in/dilpreet2005/" style="text-decoration: none;">LinkedIn</a> |
+  <a href="mailto:gill.dilpreet2005@gmail.com" style="text-decoration: none;">Email</a>
 </p>
 
